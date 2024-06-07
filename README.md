@@ -24,8 +24,6 @@ Responsive Design: Works seamlessly on both desktop and mobile devices.
 ## Technologies Used
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
-
 API: https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/inr.json
 
 Version Control: Git
